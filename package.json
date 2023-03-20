@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/contracts-upgradeable": "^4.4.2",
+    "@openzeppelin/truffle-upgrades": "^1.12.0",
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "truffle-plugin-verify": "^0.5.21"
+  },
+  "scripts": {
+    "ganache": "ganache --wallet.seed myCustomSeed"
+  }
+}
